@@ -1,0 +1,68 @@
+
+python-dotenv
+
+
+# COMPUTING
+pandas
+dask
+jupyter
+
+
+# DATABASE
+pymysql
+mongoengine
+influxdb
+
+
+# ANALYSIS
+tensorflow
+theano
+statsmodels
+scikit-learn
+nltk
+gensim
+sympy
+
+
+# WEB
+requests
+beautifulsoup4
+django
+flask
+scrapy
+gunicorn
+django-grappelli
+django-social-auth
+django-dotenv
+
+
+# GEO
+folium
+geos
+shepely
+googlemaps
+
+
+# DISPLAY
+bokeh
+seaborn
+matplotlib
+ggplot
+pygal
+plotly
+
+#GRAPH
+networkx
+etetoolkit
+ete3
+ete3_external_apps
+
+
+cython
+
+
+
+pyzmq
+
+
+
