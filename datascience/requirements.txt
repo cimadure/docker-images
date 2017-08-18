@@ -38,7 +38,7 @@ django-dotenv
 # GEO
 folium
 geos
-shepely
+shapely
 googlemaps
 
 
