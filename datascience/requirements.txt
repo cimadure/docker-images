@@ -14,7 +14,7 @@ influxdb
 
 
 # ANALYSIS
-#tensorflow
+tensorflow
 theano
 statsmodels
 scikit-learn
@@ -29,26 +29,26 @@ beautifulsoup4
 django
 flask
 #scrapy
-#gunicorn
+gunicorn
 django-grappelli
 django-social-auth
 django-dotenv
 
 
 # GEO
-#folium
+folium
 #geos
 #shapely
-#googlemaps
+googlemaps
 
 
 # DISPLAY
 bokeh
-#seaborn
+seaborn
 matplotlib
-#ggplot
+ggplot
 #pygal
-#plotly
+plotly
 
 #GRAPH
 #networkx
