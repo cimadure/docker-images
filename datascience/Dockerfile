@@ -4,7 +4,10 @@ MAINTAINER Ronan Cimadure <ronan.cimadure@gmail.com>
 
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 
-RUN pip install -r requierements.txt
+RUN mkdir /datascience
+WORKDIR /datascience
+ADD requirements.txt /datascience/
+RUN pip install -r requirements.txt
 
 #RUN conda config --add channels conda-forge
 #RUN conda install orange3
