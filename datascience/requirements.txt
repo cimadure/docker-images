@@ -14,13 +14,13 @@ influxdb
 
 
 # ANALYSIS
-tensorflow
+#tensorflow
 theano
 statsmodels
 scikit-learn
 nltk
-gensim
-sympy
+#gensim
+#sympy
 
 
 # WEB
@@ -28,40 +28,37 @@ requests
 beautifulsoup4
 django
 flask
-scrapy
-gunicorn
+#scrapy
+#gunicorn
 django-grappelli
 django-social-auth
 django-dotenv
 
 
 # GEO
-folium
-geos
-shapely
-googlemaps
+#folium
+#geos
+#shapely
+#googlemaps
 
 
 # DISPLAY
 bokeh
-seaborn
+#seaborn
 matplotlib
-ggplot
-pygal
-plotly
+#ggplot
+#pygal
+#plotly
 
 #GRAPH
-networkx
-etetoolkit
-ete3
-ete3_external_apps
+#networkx
+#etetoolkit
+#ete3
+#ete3_external_apps
 
 
-cython
-
-
-
-pyzmq
+#cython
+#pyzmq
 
 
 
