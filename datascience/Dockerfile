@@ -18,5 +18,7 @@ RUN apt-get update && apt-get install -y \
     freetds-common \
     freetds-dev
 
-#psycopg2
-#pymssql
+
+RUN export PYMSSQL_BUILD_WITH_BUNDLED_FREETDS=1
+RUN pip install pymssql
+RUN pip install psycopg2
