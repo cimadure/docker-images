@@ -51,7 +51,7 @@ ggplot
 plotly
 
 #GRAPH
-#networkx
+networkx
 #etetoolkit
 #ete3
 #ete3_external_apps
@@ -61,4 +61,11 @@ plotly
 #pyzmq
 
 
-
+#FINANCE
+quantdsl
+statistics
+pyfin
+#vollib
+ffn
+backtrader
+git+https://github.com/ematvey/pybacktest.git
