@@ -69,3 +69,14 @@ pyfin
 ffn
 backtrader
 git+https://github.com/ematvey/pybacktest.git
+
+
+#TIME-SERIES
+statsmodels
+dynts
+
+# FOLIO
+pyfolio
+pymc3
+https://github.com/ChinaQuants/VisualPortfolio.git
+
