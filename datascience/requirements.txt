@@ -7,6 +7,7 @@ dask
 jupyter
 
 
+
 # DATABASE
 pymysql
 mongoengine
@@ -19,8 +20,10 @@ theano
 statsmodels
 scikit-learn
 nltk
+keras
 #gensim
 #sympy
+
 
 
 # WEB
@@ -33,6 +36,13 @@ gunicorn
 django-grappelli
 django-social-auth
 django-dotenv
+
+
+#GRAPH
+networkx
+#etetoolkit
+#ete3
+#ete3_external_apps
 
 
 # GEO
@@ -49,12 +59,6 @@ matplotlib
 ggplot
 #pygal
 plotly
-
-#GRAPH
-networkx
-#etetoolkit
-#ete3
-#ete3_external_apps
 
 
 #cython
@@ -78,5 +82,5 @@ dynts
 # FOLIO
 pyfolio
 pymc3
-https://github.com/ChinaQuants/VisualPortfolio.git
+#https://github.com/ChinaQuants/VisualPortfolio.git
 
