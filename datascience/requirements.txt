@@ -2,6 +2,8 @@ python-dotenv
 
 
 # COMPUTING
+numpy==1.13.3
+scipy
 pandas
 dask
 jupyter
@@ -31,7 +33,7 @@ requests
 beautifulsoup4
 django
 flask
-#scrapy
+scrapy
 gunicorn
 django-grappelli
 django-social-auth
@@ -41,14 +43,14 @@ django-dotenv
 #GRAPH
 networkx
 #etetoolkit
-#ete3
+ete3
 #ete3_external_apps
 
 
 # GEO
 folium
-#geos
-#shapely
+geos
+shapely
 googlemaps
 
 
