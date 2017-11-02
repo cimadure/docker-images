@@ -86,3 +86,5 @@ pyfolio
 pymc3
 #https://github.com/ChinaQuants/VisualPortfolio.git
 
+
+opencv-contrib-python
