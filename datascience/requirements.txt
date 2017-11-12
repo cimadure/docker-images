@@ -5,9 +5,12 @@ python-dotenv
 numpy==1.13.3
 scipy
 pandas
-dask
+
+dask[complete]
 jupyter
 
+tables
+toolz
 
 
 # DATABASE
@@ -89,3 +92,6 @@ pymc3
 
 
 opencv-contrib-python
+
+
+
