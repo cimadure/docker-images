@@ -102,6 +102,7 @@ opencv-contrib-python
 # IMAGING
 Pillow
 datashader
+skimage
 
 
 
