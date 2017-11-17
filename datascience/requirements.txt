@@ -18,6 +18,10 @@ pymysql
 mongoengine
 influxdb
 
+# STORAGE
+h5py
+fastparquet
+
 
 # ANALYSIS
 tensorflow
@@ -93,5 +97,6 @@ pymc3
 
 opencv-contrib-python
 
+Pillow
 
 
