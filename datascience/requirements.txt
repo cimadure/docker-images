@@ -21,6 +21,7 @@ influxdb
 # STORAGE
 h5py
 fastparquet
+s3fs
 
 
 # ANALYSIS
@@ -53,6 +54,7 @@ networkx
 ete3
 #ete3_external_apps
 graphviz
+snakeviz
 
 # GEO
 folium
@@ -97,6 +99,9 @@ pymc3
 
 opencv-contrib-python
 
+# IMAGING
 Pillow
+datashader
+
 
 
