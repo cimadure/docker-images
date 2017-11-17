@@ -48,7 +48,7 @@ networkx
 #etetoolkit
 ete3
 #ete3_external_apps
-
+graphviz
 
 # GEO
 folium
