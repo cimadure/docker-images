@@ -105,4 +105,8 @@ datashader
 scikit-image
 
 
+# Quantum and Galactic Dynamics
+galpy
+qutip
+
 
