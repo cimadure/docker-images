@@ -87,9 +87,10 @@ backtrader
 git+https://github.com/ematvey/pybacktest.git
 
 
+
 #TIME-SERIES
 statsmodels
-dynts
+#dynts
 
 # FOLIO
 pyfolio
@@ -101,7 +102,8 @@ opencv-contrib-python
 
 # IMAGING
 Pillow
-datashader
+#datashader
+#conda install -c bokeh datashader
 scikit-image
 
 
